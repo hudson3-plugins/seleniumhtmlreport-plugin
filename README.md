@@ -1,0 +1,2 @@
+seleniumhtmlreport-plugin
+=========================
